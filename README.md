@@ -31,14 +31,14 @@
 
 ## Contributors *(SRS & Class Diagram)*
 <p><strong>Gokul Vasudeva</strong>   https://github.com/gokulvsd</p>
-<p><strong>Anusha A</strong>   https://github.com/anushab05</p>
+<p><strong>Anusha A</strong>   https://github.com/anushaa51</p>
 <p><strong>Aditi Dutta</strong>   </p>
 <p><strong>Fakhruddin Nalawala</strong>   </p>
 <br />
 
 ## Contributors *(Source Code & Documentation)*
 <p><strong>Gokul Vasudeva</strong>   https://github.com/gokulvsd</p>
-<p><strong>Anusha A</strong>   https://github.com/anushab05</p>
+<p><strong>Anusha A</strong>   https://github.com/anushaa51</p>
 <br />
 
 ##
